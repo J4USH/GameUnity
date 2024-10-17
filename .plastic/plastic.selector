@@ -1,0 +1,4 @@
+repository "GamePublic@AriCo@cloud"
+  path "/"
+    br "/main"
+    co "/main"
